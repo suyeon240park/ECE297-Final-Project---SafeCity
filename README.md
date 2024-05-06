@@ -31,7 +31,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 
 
 - Result:
-<img src="src/path finding result" width="700">
+<img src="src/path finding result.png" width="700">
 
 
 ### 4. Safe Path:
