@@ -60,7 +60,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 
 ## Limitation
 1. Incident data may not be truly real-time due to API delivery delays.
-2. Types of incidents may not always clearly convey what is actually going on there.
+2. The types of incidents may not always clearly convey the actual situation or events occurring at the location.
 3. Crime rates can be skewed in densely populated areas, failing to accurately reflect crime rates per capita.
 
 
