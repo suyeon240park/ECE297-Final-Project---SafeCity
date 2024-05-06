@@ -17,8 +17,9 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 - Analyzes incident concentration on the map.
 - Adjusts map elements dynamically based on zoom level for improved visibility.
 
-<img src="src/SafeCity Demo.gif" width="900">
-
+<p align="center">
+  <img src="src/SafeCity Demo.gif" width="900">
+</p>
 
 
 ### 3. Path Finding with A* algorithm
