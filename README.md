@@ -27,7 +27,8 @@ https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/8ec684b3-38ee-
  
 - Path Finding Demo:
 
-![path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/75a0c3c3-4a6a-472a-8053-170445a81792)
+![path](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/75cabfd5-fd3d-4b7e-9ce2-371ed97fa34a)
+
 
 - Result
 ![path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/02c3f6c8-f775-47cd-9bcc-44791ba68888)
@@ -36,7 +37,7 @@ https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/8ec684b3-38ee-
 ### 4. Safe Path:
 - Identifies safer routes by minimizing the number of incidents along the path.
 
-![safe path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/b49e5624-b228-4595-a967-ba0ef80748a6)
+![safe path](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/de441772-7ad9-4c83-8d98-b567bf8bd6ce)
 
 
 ### 5. Multi-Route Planning:
