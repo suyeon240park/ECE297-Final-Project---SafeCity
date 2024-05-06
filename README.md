@@ -30,7 +30,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 ![path](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/75cabfd5-fd3d-4b7e-9ce2-371ed97fa34a)
 
 
-- Result
+- Result:
 ![path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/02c3f6c8-f775-47cd-9bcc-44791ba68888)
 
 
@@ -48,7 +48,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 3. Select Optimal Route: Identify the lowest-cost route from the greedy route results.
 4. Identify Depot: Determine the depot with the lowest associated cost.
 
-- Result
+- Result:
 ![image](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/54fce5a7-f63a-4de2-9cce-833ae5e8f7a2)
 
 
@@ -57,10 +57,12 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 - Mitigates safety concerns by offering insights into incident patterns within urban settings.
 - Improves navigation efficiency and fosters city-wide safety awareness.
 
+
 ## Limitation
 1. Incident data may not be truly real-time due to API delivery delays.
 2. Types of incidents may not always clearly convey what is actually going on there.
 3. Crime rates can be skewed in densely populated areas, failing to accurately reflect crime rates per capita.
+
 
 ## Future Pitch
 1. Integrate GIS with social media for real-time incident reporting.
