@@ -21,6 +21,8 @@ https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/8ec684b3-38ee-
 ### 3. Path Finding with A* algorithm
 - Efficient route planning considering travel time and street turn penalties.
 - 93% of searches complete in under 100 ms for an instantaneous user experience.
+![path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/02c3f6c8-f775-47cd-9bcc-44791ba68888)
+
 - Process:
   1)
 
