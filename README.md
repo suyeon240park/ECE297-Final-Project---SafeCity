@@ -26,6 +26,7 @@ https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/8ec684b3-38ee-
 4. Return: Backtrack and return the path if it exists.
  
 - Path Finding Demo:
+
 ![path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/75a0c3c3-4a6a-472a-8053-170445a81792)
 
 - Result
@@ -34,6 +35,7 @@ https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/8ec684b3-38ee-
 
 ### 4. Safe Path:
 - Identifies safer routes by minimizing the number of incidents along the path.
+
 ![safe path finding](https://github.com/suyeon240park/ECE297-SafeCity/assets/123034036/b49e5624-b228-4595-a967-ba0ef80748a6)
 
 
