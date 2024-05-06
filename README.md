@@ -1,6 +1,8 @@
 # ECE297 Final Project - SafeCity
 SafeCity is a GIS-based application designed to improve urban safety by mapping and visualizing dangerous areas in Toronto based on incidents reported in 2023. Leveraging Geographic Information Systems (GIS) technology, SafeCity provides real-time information on high-risk zones, enabling users to make informed decisions about their routes and locations. By highlighting areas prone to crime and other incidents, SafeCity empowers users to navigate the city more safely.
 
+
+
 ## Key Features
 ### 1. Incident Mapping
 - Visualizes Points of Interest (POIs) in major cities.
@@ -9,12 +11,14 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 - Clicking on map elements opens a sidebar with incident details such as type, date, and neighborhood.
 <img src="src/POI.png" width="700">
 
+
  
 ### 2. User-Friendly Interface
 - Analyzes incident concentration on the map.
 - Adjusts map elements dynamically based on zoom level for improved visibility.
 
-<img src="src/SafeCity Demo.gif" width="1000">
+<img src="src/SafeCity Demo.gif" width="900">
+
 
 
 ### 3. Path Finding with A* algorithm
@@ -27,17 +31,19 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
  
 - Path Finding Demo:
 
-<img src="src/path.gif" width="1000">
+<img src="src/path.gif" width="900">
 
 
 - Result:
 <img src="src/path finding result.png" width="700">
 
 
+
 ### 4. Safe Path:
 - Identifies safer routes by minimizing the number of incidents along the path.
 
-<img src="src/safe path.gif" width="1000">
+<img src="src/safe path.gif" width="900">
+
 
 
 ### 5. Multi-Route Planning:
@@ -50,6 +56,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 
 - Result:
 <img src="src/multi route result.png" width="700">
+
 
 
 ## Impact
