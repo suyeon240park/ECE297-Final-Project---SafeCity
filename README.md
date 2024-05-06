@@ -22,7 +22,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 <p align="center">
   <img src="src/SafeCity Demo.gif" width="900">
 </p>
-
+<br><br>
 
 ### 3. Path Finding with A* algorithm
 - Efficient route planning considering travel time and street turn penalties.
@@ -37,13 +37,13 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 <p align="center">
   <img src="src/path.png" width="700">
 </p>
-
+<br>
 
 - Result:
 <p align="center">
   <img src="src/path finding result.png" width="700">
 </p>
-
+<br><br>
 
 ### 4. Safe Path:
 - Identifies safer routes by minimizing the number of incidents along the path.
@@ -53,8 +53,7 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
   <br><br><br>
   <img src="src/safe path comparison.png" width="900">
 </p>
-
-
+<br><br>
 
 ### 5. Multi-Route Planning:
 - Allows users to select optimal paths for multiple destinations
@@ -64,11 +63,12 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 3. Select Optimal Route: Identify the lowest-cost route from the greedy route results.
 4. Identify Depot: Determine the depot with the lowest associated cost.
 
+<br>
 - Result:
 <p align="center">
   <img src="src/multi route result.png" width="700">
 </p>
-
+<br><br>
 
 
 ## Impact
