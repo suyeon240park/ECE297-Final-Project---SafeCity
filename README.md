@@ -9,10 +9,12 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 - Displays 2023 crime incidents in Toronto sourced from the Toronto Police Service CSV.
 - Shows real-time traffic incidents via the TomTom traffic API.
 - Clicking on map elements opens a sidebar with incident details such as type, date, and neighborhood.
-<img src="src/POI.png" width="700">
-
-
  
+<p align="center">
+  <img src="src/POI.png" width="700">
+</p>
+
+
 ### 2. User-Friendly Interface
 - Analyzes incident concentration on the map.
 - Adjusts map elements dynamically based on zoom level for improved visibility.
@@ -38,8 +40,9 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 
 
 - Result:
-<img src="src/path finding result.png" width="700">
-
+<p align="center">
+  <img src="src/path finding result.png" width="700">
+</p>
 
 
 ### 4. Safe Path:
@@ -60,7 +63,9 @@ SafeCity is a GIS-based application designed to improve urban safety by mapping 
 4. Identify Depot: Determine the depot with the lowest associated cost.
 
 - Result:
-<img src="src/multi route result.png" width="700">
+<p align="center">
+  <img src="src/multi route result.png" width="700">
+</p>
 
 
 
